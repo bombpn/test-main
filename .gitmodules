@@ -1,6 +1,0 @@
-[submodule "test-sub1"]
-	path = test-sub1
-	url = https://github.com/bombpn/test-sub1.git
-[submodule "test-sub2"]
-	path = test-sub2
-	url = https://github.com/bombpn/test-sub2.git
